@@ -1,0 +1,34 @@
+{
+  "exports": {
+    "freertos": {
+      "timestamp": "20240521233831",
+      "original": "http://books.socialledge.com/books/freertos/export/html",
+      "wayback_url": "https://web.archive.org/web/20240521233831/http://books.socialledge.com/books/freertos"
+    },
+    "rtos": {
+      "timestamp": "20260511090630",
+      "original": "http://books.socialledge.com/books/rtos/export/html",
+      "wayback_url": "https://web.archive.org/web/20260511090630/http://books.socialledge.com/books/rtos"
+    },
+    "sjsu---advanced-microcomputer-design": {
+      "timestamp": "20260511082053",
+      "original": "http://books.socialledge.com/books/sjsu---advanced-microcomputer-design/export/html",
+      "wayback_url": "https://web.archive.org/web/20260511082053/http://books.socialledge.com/books/sjsu---advanced-microcomputer-design"
+    },
+    "sjsu---cmpe243--industrial-applications-with-can-bus": {
+      "timestamp": "20260311032719",
+      "original": "http://books.socialledge.com/books/sjsu---cmpe243--industrial-applications-with-can-bus/export/html",
+      "wayback_url": "https://web.archive.org/web/20260311032719/http://books.socialledge.com/books/sjsu---cmpe243--industrial-applications-with-can-bus"
+    },
+    "sjsu---embedded-drivers-rtos": {
+      "timestamp": "20260511093729",
+      "original": "http://books.socialledge.com/books/sjsu---embedded-drivers-rtos/export/html",
+      "wayback_url": "https://web.archive.org/web/20260511093729/http://books.socialledge.com/books/sjsu---embedded-drivers-rtos"
+    },
+    "useful-knowledge": {
+      "timestamp": "20260416102740",
+      "original": "http://books.socialledge.com/books/useful-knowledge/export/html",
+      "wayback_url": "https://web.archive.org/web/20260416102740/http://books.socialledge.com/books/useful-knowledge"
+    }
+  }
+}
